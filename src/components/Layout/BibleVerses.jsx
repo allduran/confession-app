@@ -38,13 +38,13 @@ const BibleVerses = ({ verses }) => {
     fetchVerses();
   }, [verses]);
 
-  if (loading) return <div>Cargando...</div>;
+  if (loading) return (<div className="bible-verses">Cargando...</div>)
   
   // Display error message if there's an error
-  if (error) return <div>Error: {error}</div>;
+  if (error) return (<div className="bible-verses">Error: {error}</div>)
 
   return (
-    <div>
+    <div className="bible-verses">
       {verseData.map((verse) => (
         <div key={verse.referencia}>
           <h4>{verse.referencia}</h4>

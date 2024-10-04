@@ -262,6 +262,267 @@
                         ]
                     }
                 ]
+            },
+            {
+                "numero": 1,
+                "titulo": "De las Sagradas Escrituras",
+                "points": [
+                    {
+                        "numero": 1,
+                        "secciones": [
+                            {
+                                "contenido": "Las Sagradas Escrituras constituyen la única regla suficiente, segura e infalible de todo conocimiento, fe y obediencia salvadores.",
+                                "referencias": [
+                                    [
+                                        {
+                                            "book": "2TI",
+                                            "chapter": 3,
+                                            "vers": "15-17"
+                                        },
+                                        {
+                                            "book": "IS",
+                                            "chapter": 8,
+                                            "vers": "20"
+                                        },
+                                        {
+                                            "book": "LC",
+                                            "chapter": 16,
+                                            "vers": "29,31"
+                                        },
+                                        {
+                                            "book": "EF",
+                                            "chapter": 2,
+                                            "vers": "20"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "contenido": "Aunque la luz de la naturaleza y las obras de la creación y de la providencia manifiestan de tal manera la bondad, sabiduría y poder de Dios que dejan a los hombres sin excusa,",
+                                "referencias": [
+                                    [
+                                        {
+                                            "book": "RO",
+                                            "chapter": 1,
+                                            "vers": "19-21,32"
+                                        },
+                                        {
+                                            "book": "RO",
+                                            "chapter": 2,
+                                            "vers": "12a,14,15"
+                                        },
+                                        {
+                                            "book": "SAL",
+                                            "chapter": 19,
+                                            "vers": "1-3"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "contenido": "no obstante, no son suficientes para dar el conocimiento de Dios y de su voluntad que es necesario para la salvación.",
+                                "referencias": [
+                                    [
+                                        [
+                                            {
+                                                "book": "SAL",
+                                                "chapter": 19,
+                                                "vers": "1-3,7-11"
+                                            },
+                                            {
+                                                "book": "RO",
+                                                "chapter": 1,
+                                                "vers": "19-21"
+                                            },
+                                            {
+                                                "book": "RO",
+                                                "chapter": 2,
+                                                "vers": "12a,14,15"
+                                            },
+                                            {
+                                                "book": "RO",
+                                                "chapter": 1,
+                                                "vers": "16,17"
+                                            },
+                                            {
+                                                "book": "RO",
+                                                "chapter": 3,
+                                                "vers": "21"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            },
+                            {
+                                "contenido": "Por lo tanto, agradó al Señor, en distintas épocas y de diversas maneras, revelarse a sí mismo y declarar su voluntad a su iglesia;",
+                                "referencias": [
+                                    [
+                                        [
+                                            {
+                                                "book": "HE",
+                                                "chapter": 1,
+                                                "vers": "1,2"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            },
+                            {
+                                "contenido": "posteriormente, para preservar y propagar mejor la verdad y para un establecimiento y consuelo más seguros de la iglesia contra la corrupción de la carne y la malicia de Satanás y del mundo, le agradó poner por escrito esa revelación en su totalidad, lo cual hace a las Santas Escrituras muy necesarias",
+                                "referencias": [
+                                    [
+                                        [
+                                            {
+                                                "book": "PR",
+                                                "chapter": 22,
+                                                "vers": "19-21"
+                                            },
+                                            {
+                                                "book": "LC",
+                                                "chapter": 1,
+                                                "vers": "1-4"
+                                            },
+                                            {
+                                                "book": "2P",
+                                                "chapter": 1,
+                                                "vers": "12-15"
+                                            },
+                                            {
+                                                "book": "2P",
+                                                "chapter": 3,
+                                                "vers": "1"
+                                            },
+                                            {
+                                                "book": "DT",
+                                                "chapter": 17,
+                                                "vers": "18"
+                                            },
+                                            {
+                                                "book": "DT",
+                                                "chapter": 31,
+                                                "vers": "9,19"
+                                            },
+                                            {
+                                                "book": "1CO",
+                                                "chapter": 15,
+                                                "vers": "1"
+                                            },
+                                            {
+                                                "book": "2TS",
+                                                "chapter": 2,
+                                                "vers": "1,2,15"
+                                            },
+                                            {
+                                                "book": "2TS",
+                                                "chapter": 3,
+                                                "vers": "17"
+                                            },
+                                            {
+                                                "book": "RO",
+                                                "chapter": 1,
+                                                "vers": "8-15"
+                                            },
+                                            {
+                                                "book": "GA",
+                                                "chapter": 4,
+                                                "vers": "20"
+                                            },
+                                            {
+                                                "book": "GA",
+                                                "chapter": 6,
+                                                "vers": "11"
+                                            },
+                                            {
+                                                "book": "1TI",
+                                                "chapter": 3,
+                                                "vers": "14"
+                                            },
+                                            {
+                                                "book": "AP",
+                                                "chapter": 1,
+                                                "vers": "9,19"
+                                            },
+                                            {
+                                                "book": "AP",
+                                                "chapter": 2,
+                                                "vers": "1"
+                                            },
+                                            {
+                                                "book": "RO",
+                                                "chapter": 15,
+                                                "vers": "4"
+                                            },
+                                            {
+                                                "book": "2P",
+                                                "chapter": 1,
+                                                "vers": "19-21"
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            },
+                            {
+                                "contenido": "habiendo cesado ya las maneras anteriores por las cuales Dios revelaba su voluntad a su pueblo.",
+                                "referencias": [
+                                    [
+                                        {
+                                            "book": "HE",
+                                            "chapter": 1,
+                                            "vers": "1,2"
+                                        },
+                                        {
+                                            "book": "HCH",
+                                            "chapter": 1,
+                                            "vers": "21,22"
+                                        },
+                                        {
+                                            "book": "1CO",
+                                            "chapter": 9,
+                                            "vers": "1"
+                                        },
+                                        {
+                                            "book": "1CO",
+                                            "chapter": 15,
+                                            "vers": "7,8"
+                                        },
+                                        {
+                                            "book": "EF",
+                                            "chapter": 2,
+                                            "vers": "20"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 2,
+                        "secciones": [
+                            {
+                                "contenido": "Bajo el nombre de Sagradas Escrituras o Palabra de Dios escrita, están incluidos todos los libros del Antiguo y Nuevo Testamento, que son:\n  Génesis,\n Éxodo, Levítico, Números, Deuteronomio, Josué, Jueces, Rut, 1 Samuel, 2 Samuel, 1 Reyes, 2 Reyes, 1 Crónicas, 2 Crónicas, Esdras, Nehemías, Ester, Job, Salmos, Proverbios, Eclesiastés, Cantar de los Cantares, Isaías, Jeremías, Lamentaciones, Ezequiel, Daniel, Oseas, Joel, Amós, Abdías, Jonás, Miqueas, Nahúm, Habacuc, Sofonías, Hageo, Zacarías, Malaquías, Mateo, Marcos, Lucas, Juan, Hechos de los Apóstoles, Romanos, 1 Corintios, 2 Corintios, Gálatas, Efesios, Filipenses, Colosenses, 1 Tesalonicenses, 2 Tesalonicenses, 1 Timoteo, 2 Timoteo, Tito, Filemón, Hebreos, Santiago, 1 Pedro, 2 Pedro, 1 Juan, 2 Juan, 3 Juan, Judas, Apocalipsis. Todos ellos fueron dados por inspiración de Dios para ser la regla de fe y de vida.",
+                                "referencias": [
+                                    [
+                                        {
+                                            "book": "2TI",
+                                            "chapter": 3,
+                                            "vers": "16"
+                                        },
+                                        {
+                                            "book": "1TI",
+                                            "chapter": 5,
+                                            "vers": "17,18"
+                                        },
+                                        {
+                                            "book": "2P",
+                                            "chapter": 3,
+                                            "vers": "16"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

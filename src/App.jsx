@@ -14,15 +14,9 @@ function App() {
 
   return (
     <div className="container">
-      <div className="sidebar">
         <Sidebar chapters={confessionData.confesion.capitulos} onSectionClick={handleSectionClick} />
-      </div>
-      <div className="content">
         <Content sections={selectedSection} />
-      </div>
-      <div className="bible-verses">
         {selectedSection.length > 0 && <BibleVerses verseReferences={selectedSection.flatMap(section => section.referencias)} />}
-      </div>
     </div>
   );
 }
