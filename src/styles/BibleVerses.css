@@ -1,0 +1,18 @@
+/* BibleVerses.css */
+.bible-verses {
+    background-color: #ffffff; /* White */
+    color: #333333; /* Dark Gray */
+    padding: 20px;
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
+  }
+  
+  .bible-verses h4 {
+    color: #007BFF; /* Primary color */
+    margin-bottom: 10px;
+  }
+  
+  .bible-verses p {
+    margin-bottom: 15px; /* Space between verses */
+  }
+  

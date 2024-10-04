@@ -1,0 +1,33 @@
+/* Sidebar.css */
+.sidebar {
+    background-color: #ffffff; /* White background */
+    padding: 20px;
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
+    transition: transform 0.3s ease; /* Smooth transition */
+  }
+  
+  .sidebar:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+  }
+  
+  .sidebar h2 {
+    color: #007BFF; /* Primary color */
+    margin-bottom: 15px;
+  }
+  
+  .sidebar ul {
+    list-style-type: none; /* Remove bullet points */
+  }
+  
+  .sidebar ul li {
+    margin-bottom: 10px; /* Space between items */
+    cursor: pointer; /* Pointer cursor for clickable items */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth color and transform transition */
+  }
+  
+  .sidebar ul li:hover {
+    color: #0056b3; /* Darker blue on hover */
+    transform: translateX(5px); /* Slight move to the right on hover */
+  }
+  

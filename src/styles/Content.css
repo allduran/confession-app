@@ -1,0 +1,27 @@
+/* Content.css */
+.content {
+    background-color: #ffffff; /* White */
+    padding: 20px;
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
+  }
+  
+  .content-section {
+    margin-bottom: 20px; /* Space between sections */
+    padding: 20px;
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth background and transform transition */
+    cursor: pointer; /* Pointer cursor for clickable items */
+  }
+  
+  .content-section:hover {
+    background-color: #f0f0f0; /* Light gray on hover */
+    transform: translateY(-5px); /* Lift effect on hover */
+  }
+  
+  .content h2 {
+    color: #007BFF; /* Primary color */
+    margin-bottom: 15px;
+  }
+  
