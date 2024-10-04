@@ -6,23 +6,23 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif; /* Modern font */
-  background-color: #f5f5f5; /* Light gray background for the body */
-  color: #333; /* Dark gray text for better readability */
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
 }
 
 .container {
   display: grid;
-  grid-template-columns: 1fr 2fr 2fr; /* Sidebar, Content, Bible Verses */
-  gap: 20px; /* Space between sections */
+  grid-template-columns: 1fr 2fr 2fr;
+  gap: 20px;
   padding: 20px;
-  margin-top: 80px; /* Add top margin to avoid overlap with fixed header */
+  margin-top: 80px;
 }
 
 /* Media Queries for Responsive Design */
 @media (max-width: 768px) {
   .container {
-    grid-template-columns: 1fr; /* Stack sections vertically */
+    grid-template-columns: 1fr;
     grid-template-rows: auto auto auto;
   }
 }

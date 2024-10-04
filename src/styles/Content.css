@@ -1,27 +1,27 @@
 /* Content.css */
 .content {
-    background-color: #ffffff; /* White */
+    background-color: #ffffff;
     padding: 20px;
-    border-radius: 12px; /* More rounded corners */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
   
   .content-section {
-    margin-bottom: 20px; /* Space between sections */
+    margin-bottom: 20px;
     padding: 20px;
-    border-radius: 12px; /* More rounded corners */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
-    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth background and transform transition */
-    cursor: pointer; /* Pointer cursor for clickable items */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
   }
   
   .content-section:hover {
-    background-color: #f0f0f0; /* Light gray on hover */
-    transform: translateY(-5px); /* Lift effect on hover */
+    background-color: #f0f0f0;
+    transform: translateY(-5px);
   }
   
   .content h2 {
-    color: #007BFF; /* Primary color */
+    color: #007BFF;
     margin-bottom: 15px;
   }
   

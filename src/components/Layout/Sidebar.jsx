@@ -1,3 +1,4 @@
+// Sidebar.jsx
 import PropTypes from 'prop-types';
 import '../../styles/Sidebar.css';
 

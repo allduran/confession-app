@@ -1,3 +1,4 @@
+// App.jsx
 import { useState } from "react";
 import "./App.css";
 import Sidebar from "./components/Layout/Sidebar";
