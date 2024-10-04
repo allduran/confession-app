@@ -17,7 +17,7 @@ const Content = ({ sections }) => {
           </div>
         ))
       ) : (
-        <p>Seleccione una sección</p>
+        <p>Seleccione un punto</p>
       )}
     </div>
   );
