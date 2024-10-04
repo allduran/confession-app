@@ -1,0 +1,18 @@
+/* Header.css */
+.header {
+    background-color: #007BFF; /* Primary color */
+    padding: 20px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow for depth */
+    position: fixed; /* Make the header fixed */
+    top: 0; /* Position it at the top */
+    width: 100%; /* Full width */
+    z-index: 1000; /* Ensure it is above other elements */
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  

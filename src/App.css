@@ -16,6 +16,7 @@ body {
   grid-template-columns: 1fr 2fr 2fr; /* Sidebar, Content, Bible Verses */
   gap: 20px; /* Space between sections */
   padding: 20px;
+  margin-top: 80px; /* Add top margin to avoid overlap with fixed header */
 }
 
 /* Media Queries for Responsive Design */
